@@ -1,0 +1,20 @@
+.doublecarousel-wrapper {
+    display: block;
+    border: 1px dotted red;
+}
+
+.carouselImagenes-wrapper {
+    display: block;
+    border: 1px solid blue;
+}
+.carouselDescripciones-wrapper {
+    display: block;
+    border: 1px solid lime;
+    position: relative;
+    top: 50%;
+    right: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: mediumseagreen;
+    z-index: 0;
+}
